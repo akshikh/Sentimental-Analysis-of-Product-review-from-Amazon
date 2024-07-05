@@ -1,7 +1,7 @@
 # Sentimental-Analysis-of-Product-review-from-Amazon
 
 Overview of the Analysis
-We used VADER Sentiment Analysis to score historical data of Amazon reviews, categorizing each review as positive, negative, or neutral based on its content. The analysis revealed that higher-rated reviews (4 and 5 stars) tend to be more positive, while lower-rated reviews (1 and 2 stars) are more negative. Neutral sentiments are consistent across all ratings but slightly more common in lower-rated reviews.
+I used VADER Sentiment Analysis to score historical data of Amazon reviews, categorizing each review as positive, negative, or neutral based on its content. The analysis revealed that higher-rated reviews (4 and 5 stars) tend to be more positive, while lower-rated reviews (1 and 2 stars) are more negative. Neutral sentiments are consistent across all ratings but slightly more common in lower-rated reviews.
 
 
 
